@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Perkenalkan nama saya **Hygiano Paksi Widya Asmara**.\ 
+Perkenalkan nama saya **Hygiano Paksi Widya Asmara.
 
 - 🔭 I’m currently working on PT Madura Prima Investama
 - 🌱 I’m currently learning Machine Learning Path at Bangkit Program 

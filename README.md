@@ -2,8 +2,8 @@
 
 Perkenalkan nama saya **Hygiano Paksi Widya Asmara.
 
-- 🔭 I’m currently working on PT Madura Prima Investama
-- 🌱 I’m currently learning Machine Learning Path at Bangkit Program 
+- 🔭 I’m currently working on my Final Assignment
+- 🌱 I’m graduated from Machine Learning Path at Bangkit Program Batch 2 2023
 - 💬 Ask me about anything ?
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hygianopaksiwidyaasmara/).\
 - ⚡ Fun fact: Iam a Gamers Enthusiast
